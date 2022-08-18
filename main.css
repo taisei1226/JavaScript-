@@ -1,0 +1,16 @@
+h3{
+	text-align: center;
+}
+#time {
+  font-size: 3rem;
+  text-align: center;
+}
+
+#buttons {
+  font-size: 3rem;
+  text-align: center;
+}
+
+#start, #stop, #reset {
+  font-size: 1.5rem;
+}
